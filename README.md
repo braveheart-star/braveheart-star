@@ -1,5 +1,8 @@
 ## Hi there, I'm ShiXiong Han.👋
 
+[![Website](https://icon-library.com/icon/small-linkedin-icon-28.html.html)](https://shixiong.vercel.app/)
+[![Linkedin](https://icon-library.com/icon/small-linkedin-icon-28.html.html)](https://www.linkedin.com/in/shixionghan/)
+
 <!--
 **AngelinCalu/AngelinCalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
