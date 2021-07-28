@@ -2,8 +2,11 @@
 
 ## 📬 Get in touch
 
-- Web: [shixiong.vercel.app][1]
-- LinkedIn: [linkedin.com/in/shixionghan][2]
+- Web: [natterstefan.me][1]
+- LinkedIn: [linkedin.com/in/natterstefan][2]
+- Twitter: [twitter.com/natterstefan][3]
+- Blog: [blog.natterstefan.me][4]
+- YouTube: [youtube.com/natterstefan][11]
 <!--
 **AngelinCalu/AngelinCalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
