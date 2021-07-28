@@ -1,8 +1,9 @@
 ## Hi there, I'm ShiXiong Han.👋
 
-[![Website](https://img.shields.io/website?label=angelin.calu.info&style=for-the-badge&url=https%3A%2F%2Fangelin.calu.info)](https://shixiong.vercel.app/)
-[![Linkedin](https://ibb.co/28Mwv1Y)](https://www.linkedin.com/in/shixionghan/)
+## 📬 Get in touch
 
+- Web: [shixiong.vercel.app][1]
+- LinkedIn: [linkedin.com/in/shixionghan][2]
 <!--
 **AngelinCalu/AngelinCalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 Passionate about technology in general, started coding 7 years. Experienced in building extensive SaaS applications from designing (Lately preferring Figma as a main tool) to writing both front and backend end logic, testing, deployment, including basic server management tasks.
 
