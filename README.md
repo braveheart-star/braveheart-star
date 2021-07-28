@@ -2,8 +2,8 @@
 
 ## 📬 Get in touch
 
-- Web: [https://shixiong.vercel.app/][1]
-- LinkedIn: [https://shixiong.vercel.app/][2]
+- Web: [https://shixiong.vercel.app/]
+- LinkedIn: [https://www.linkedin.com/in/shixionghan/]
 <!--
 **AngelinCalu/AngelinCalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
