@@ -4,8 +4,6 @@
 
 - Web: [https://shixiong.vercel.app/][1]
 - LinkedIn: [https://shixiong.vercel.app/][2]
-- Twitter: [twitter.com/natterstefan][3]
-
 <!--
 **AngelinCalu/AngelinCalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
