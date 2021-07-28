@@ -1,7 +1,7 @@
 ## Hi there, I'm ShiXiong Han.👋
 
 [![Website](https://img.shields.io/website?label=angelin.calu.info&style=for-the-badge&url=https%3A%2F%2Fangelin.calu.info)](https://shixiong.vercel.app/)
-[![Linkedin](https://icon-library.com/images/linkedin-image-icon/linkedin-image-icon-17.jpg)](https://www.linkedin.com/in/shixionghan/)
+[![Linkedin](https://ibb.co/28Mwv1Y)](https://www.linkedin.com/in/shixionghan/)
 
 <!--
 **AngelinCalu/AngelinCalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
