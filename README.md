@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-With a decade of experience in the technology field, I have developed a strong proficiency in building comprehensive SaaS applications.
+With a decade of experience in the technology field, I have developed a strong proficiency in building comprehensive SaaS applications. 
 
-My expertise spans the full development lifecycle, including system design, frontend and backend logic development, testing, deployment, and basic server management. Recently, I have focused on enhancing my design workflows, with a particular preference for using Figma as my primary design tool. 
+My expertise spans the full development lifecycle, including system design, frontend and backend logic development, testing, deployment, and basic server management. 
 
-My experience allows me to create robust, scalable solutions while maintaining a strong focus on quality and performance at every stage of the development process.
+Recently, I have shifted my focus toward artificial intelligence, exploring and integrating AI-driven solutions into my projects. 
+
+This evolving skill set allows me to create innovative, scalable solutions while maintaining a strong focus on quality and performance at every stage of the development process.
