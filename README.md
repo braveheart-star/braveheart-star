@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-Passionate about technology in general, started coding 7 years. Experienced in building extensive SaaS applications from designing (Lately preferring Figma as a main tool) to writing both front and backend end logic, testing, deployment, including basic server management tasks.
+Passionate about technology in general, started coding 8 years. Experienced in building extensive SaaS applications from designing (Lately preferring Figma as a main tool) to writing both front and backend end logic, testing, deployment, including basic server management tasks.
 
 Here's what you might want to know:
 
