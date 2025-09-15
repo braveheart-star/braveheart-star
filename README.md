@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-Passionate about technology in general, I have been coding for 10 years. 
-Experienced in building extensive SaaS applications from designing (Lately preferring Figma as a main tool) to writing both front and backend logic, testing, deployment, and including basic server management tasks.
+With a decade of experience in the technology field, I have developed a strong proficiency in building comprehensive SaaS applications.
+
+My expertise spans the full development lifecycle, including system design, frontend and backend logic development, testing, deployment, and basic server management. Recently, I have focused on enhancing my design workflows, with a particular preference for using Figma as my primary design tool. 
+
+My experience allows me to create robust, scalable solutions while maintaining a strong focus on quality and performance at every stage of the development process.
