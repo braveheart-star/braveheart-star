@@ -1,4 +1,4 @@
-## Hi there, I'm ShiXiong Han.👋
+## Hi there, I'm a Full Stack & AI Dev.👋
 
 ## 📬 Get in touch
 
